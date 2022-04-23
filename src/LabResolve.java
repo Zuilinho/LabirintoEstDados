@@ -34,6 +34,7 @@ public class LabResolve {
     // 0 = parede
     // 1 = caminho
     // 2 = destino
+    // para testar o labirinto basta alterar a posicao inicial do caminho
 
     static LinkedList<Posicao> caminho = new LinkedList<Posicao>();
 
